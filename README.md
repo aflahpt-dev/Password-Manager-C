@@ -32,3 +32,8 @@ This project is designed as a **learning-focused implementation**, not a product
 
 ## 📂 Project Structure
 
+Password-Manager-C/
+│── main.c // Main source code
+│── data.txt // Stores encrypted passwords
+│── master.dat // Stores encrypted master password
+│── README.md // Project documentation
