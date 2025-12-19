@@ -31,8 +31,6 @@ This project is designed as a **learning-focused implementation**, not a product
 ---
 
 ## 📂 Project Structure
-
-## 📂 Project Structure
 <pre>
 Password-Manager-C/
 │── main.c        // Main source code
